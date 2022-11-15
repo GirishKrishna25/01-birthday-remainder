@@ -1,3 +1,5 @@
-## Idea
+## 01. Birthday remainder
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+### Deploy link
+https://project-01-birthday-remainder.netlify.app/
+
